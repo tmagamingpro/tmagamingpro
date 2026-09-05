@@ -24,4 +24,12 @@
 ---
 [![](https://komarev.com/ghpvc/?username=tmagamingpro&icon=0&color=10)](https://visitcount.itsvg.in)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tmagamingpro/tmagamingpro/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tmagamingpro/tmagamingpro/output/pacman-contribution-graph.svg">
+  <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/tmagamingpro/tmagamingpro/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
