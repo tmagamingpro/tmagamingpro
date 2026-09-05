@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Tegar <br><br>💻 Informatics Student | Full-Stack Developer<br>🚀 Building things with code, one project at a time.<br><br>---<br><br>## 🧑‍💻 About Me<br><br>- 🎓 Informatics Student<br>- 🌱 Currently learning Full-Stack Development<br>- 💡 Interested in Web Development, AI & Data Science<br>- 🛠️ Currently working on personal projects
+Hi, I'm Tegar <br><br>💻 Informatics Student | Full-Stack Developer<br>🚀 Building things with code, one project at a time.<br><br>---<br><br>🧑‍💻 About Me<br><br>- 🎓 Informatics Student<br>- 🌱 Currently learning Full-Stack Development<br>- 💡 Interested in Web Development, AI & Data Science<br>- 🛠️ Currently working on personal projects
 
 
 # 🌐 Socials:
