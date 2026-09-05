@@ -1,8 +1,8 @@
 # 💫 About Me:
-# Hi, I'm Tegar <br><br>💻 Informatics Student | Full-Stack Developer<br>🚀 Building things with code, one project at a time.<br><br>---<br><br>## 🧑‍💻 About Me<br><br>- 🎓 Informatics Student<br>- 🌱 Currently learning Full-Stack Development<br>- 💡 Interested in Web Development, AI & Data Science<br>- 🛠️ Currently working on personal projects
+Hi, I'm Tegar <br><br>💻 Informatics Student | Full-Stack Developer<br>🚀 Building things with code, one project at a time.<br><br>---<br><br>## 🧑‍💻 About Me<br><br>- 🎓 Informatics Student<br>- 🌱 Currently learning Full-Stack Development<br>- 💡 Interested in Web Development, AI & Data Science<br>- 🛠️ Currently working on personal projects
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tegar_mupagiwa_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tegar-mupagiwa-afrian) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Tegar Mupagiwa Afrian) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tegarafrian2006@gmail.com) 
 
 # 💻 Tech Stack:
